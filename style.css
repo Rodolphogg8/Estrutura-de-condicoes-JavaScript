@@ -3,9 +3,13 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-  }
+}
   
-  p {
+p {
     text-align: center
   }
-  
+  /* Isto é um comentário */
+body {
+    background-color: #f0f0f0;
+    /* Este é outro comentário */
+}
